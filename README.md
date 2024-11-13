@@ -8,7 +8,7 @@ Abacus Gestures are a set of 100 mid-air finger counting gestures based on the [
 
 3. Open a terminal and navigate to the repository folder
 
-4. (Optional) Create a Virtual Environment
+4. (Optional) Create a virtual environment
 ```bash
 pip install virtualenv
 virtualenv venv -p path/to/python3.10.0
